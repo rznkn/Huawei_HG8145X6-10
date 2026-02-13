@@ -1,7 +1,7 @@
 
 # Tweaking Huawei HG8145X6-10 Series ONT/ONU
 The Huawei HG8145X6-10 is a mass produced ONT.
-This repo was inspired by [@Anime4000]([https://github.com/logon84/Hacking_Huawei_HG8012H_ONT](https://github.com/Anime4000/Hacking_Huawei_HG8240H5_ONT)).
+This repo was inspired by [@Anime4000](https://github.com/Anime4000/Hacking_Huawei_HG8240H5_ONT).
 
 # Prerequisites
 Prior access to Super Admin acccount required. 
