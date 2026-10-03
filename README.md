@@ -64,6 +64,8 @@ The ONT will reject your config file if invalid changes are made.
 
 
 ## SSH login
+
+For native public-key import, the separate WAP console login, and checking the final import result, see [SSH public-key login notes](SSH-PUBLIC-KEY.md).
 SSH to your ONT with root@[IP ADDRESS], and the password of the account you copied from.
 Once inside, press `?` to list available commands.
 typing `[command] ?` e.g., `acc get accesslimit ?` will show the usage guide, if any. 
